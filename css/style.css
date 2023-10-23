@@ -20,7 +20,7 @@ body {
   background-color: var(--dark-color);
   overflow: hidden;
   position: relative;
- 
+ padding: 20px 20px;
   
 }
 
@@ -1094,10 +1094,12 @@ margin-top: 480px;
 
   .overlaymsg h1{
     font-size: 20px;
+    padding: 0px 20px;
   }
 
   .overlaymsg p{
     font-size: 13px;
+    padding: 20px 20px;
   }
 
 }
